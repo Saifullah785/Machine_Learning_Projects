@@ -1,7 +1,7 @@
 
 # 📩 SMS Spam Classifier Project
 
-This repository contains an **end-to-end Machine Learning project** that classifies SMS messages as **Spam** or **Ham (Not Spam)** using **Natural Language Processing (NLP)** and **Machine Learning algorithms**. The project demonstrates the complete pipeline — from data preprocessing to model training, evaluation, and deployment.
+This repository contains an **end-to-end Machine Learning project** that classifies SMS messages as **Spam** or **Ham (Not Spam)** using **Machine Learning algorithms**. The project demonstrates the complete pipeline — from data preprocessing to model training, evaluation, and deployment.
 
 🔗 **Repository Link**: [SMS Spam Classifier Project](https://github.com/Saifullah785/sms-spam-classifier-project)
 
